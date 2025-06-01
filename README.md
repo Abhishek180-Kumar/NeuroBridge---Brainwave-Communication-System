@@ -18,5 +18,5 @@ NeuroBridge is a Brain-Computer Interface (BCI) project that predicts user thoug
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/neurobridge.git
+   git clone https://github.com/Abhishek180-Kumar/neurobridge.git
    cd neurobridge
